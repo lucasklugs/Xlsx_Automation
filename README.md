@@ -1,6 +1,6 @@
-# 📦 Bic Pens Inventory Automation
+# 📦 Xlsx Automation
 
-This project is a simple Python automation script designed to manage the inventory of Bic pens. It reads an Excel spreadsheet containing records of item entries and exits, calculates the totals, and displays the current stock level.
+This project include simple Python automation training scripts designed to manage the data in a .xlsx. Its scripts reads Excel's spreadsheets containing records of items.
 
 ## 📈 Features
 
