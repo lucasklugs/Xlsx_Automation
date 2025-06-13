@@ -1,5 +1,4 @@
 import pandas as pd
-import datetime
 
 def get_sheet(file_path: str, sheet_name: str):
     return pd.read_excel(file_path, sheet_name=sheet_name)
